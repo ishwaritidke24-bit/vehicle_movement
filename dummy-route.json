@@ -1,0 +1,14 @@
+{
+  "speed": 500,
+  "routeCoordinates": [
+    { "latitude": 19.985845, "longitude": 73.723574, "timestamp": "2025-12-25T10:00:00Z" },
+    { "latitude": 19.986184, "longitude": 73.724319, "timestamp": "2025-12-25T10:00:05Z" },
+    { "latitude": 19.986509, "longitude": 73.724815, "timestamp": "2025-12-25T10:00:10Z" },
+    { "latitude": 19.986943, "longitude": 73.725404, "timestamp": "2025-12-25T10:00:15Z" },
+    { "latitude": 19.987453, "longitude": 73.726084, "timestamp": "2025-12-25T10:00:20Z" },
+    { "latitude": 19.987908, "longitude": 73.726661, "timestamp": "2025-12-25T10:00:25Z" },
+    { "latitude": 19.988277, "longitude": 73.727204, "timestamp": "2025-12-25T10:00:30Z" },
+    { "latitude": 19.988785, "longitude": 73.727815, "timestamp": "2025-12-25T10:00:35Z" },
+    { "latitude": 19.989415, "longitude": 73.728759, "timestamp": "2025-12-25T10:00:40Z" }
+  ]
+}
